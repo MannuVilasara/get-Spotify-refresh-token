@@ -8,7 +8,7 @@
 
 2.Name your app Anything and give it any description you like.....
 
-3.Add `http://localhost:5173/` as redirect uri.....
+3.Add `http://localhost:3000/` as redirect uri.....
 
 > As below
 
@@ -43,7 +43,7 @@ now just only few things are left.....
 ```bash
 npm start
 ```
-and open this [link](http://localhost:5173/) in your browser....
+and open this [link](http://localhost:3000/) in your browser....
 
 2.enter your client id and client secret in the text boxes
 
@@ -54,7 +54,7 @@ and open this [link](http://localhost:5173/) in your browser....
 
 4. Complete the authorization on next page
 
-5.Click F12 or developer tools in the browser and go to application => local storage => `http://localhost:5173/`
+5.Click F12 or developer tools in the browser and go to application => local storage => `http://localhost:3000/`
 
 > There You will get refresh token and access token....
 
