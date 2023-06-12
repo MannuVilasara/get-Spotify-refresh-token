@@ -13,7 +13,7 @@
 > As below
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpxilm9hmxeuokbajded.png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hgtol7fpxcung294526i.png)
 
 ---
 ##Setting up Environment
