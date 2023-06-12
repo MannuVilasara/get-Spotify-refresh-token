@@ -3,6 +3,6 @@
     "vite": "^4.2.1"
   },
   "scripts":{
-    "start": "vite"
+    "start": "vite --port 3000"
   }
 }
