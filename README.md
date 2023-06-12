@@ -13,8 +13,7 @@
 > As below
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hgtol7fpxcung294526i.png)
-
+![image](https://github.com/MannuVilasara/get-Spotify-refresh-token/assets/117009138/6c0b5308-e696-4ce2-ac68-0b569554ce78)
 ---
 ##Setting up Environment
 
