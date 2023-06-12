@@ -23,7 +23,9 @@
 
 1.just open cmd prompt in any folder and run this cmd
 
-> `git clone https://github.com/MannuVilasara/get-Spotify-refresh-token.git`
+```bash
+git clone https://github.com/MannuVilasara/get-Spotify-refresh-token.git
+```
 
 2.then open it in vs code
 
