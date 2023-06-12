@@ -1,4 +1,4 @@
-var redirect_uri = "http://localhost:5173/"; //use this redirect uri in spotify web app
+var redirect_uri = "http://localhost:3000/"; //use this redirect uri in spotify web app
 //var redirect_uri = "http://127.0.0.1:5500/index.html";
  
 
