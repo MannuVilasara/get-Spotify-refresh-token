@@ -2,7 +2,7 @@
 
 
 ---
-##Getting client id and client secret
+#Getting client id and client secret
 
 1.First of all go to [Spotify developer Dashboard](https://developer.spotify.com/dashboard) and click on create app
 
@@ -19,7 +19,7 @@
 ---
 
 
-##Setting up Environment
+#Setting up Environment
 
 1.just open cmd prompt in any folder and run this cmd
 
@@ -38,7 +38,7 @@ npm install
 
 -----
 
-##Getting refresh token
+#Getting refresh token
 
 now just only few things are left.....
 
