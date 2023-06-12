@@ -15,6 +15,7 @@
 
 ![image](https://github.com/MannuVilasara/get-Spotify-refresh-token/assets/117009138/6c0b5308-e696-4ce2-ac68-0b569554ce78)
 ---
+
 ##Setting up Environment
 
 1.just open cmd prompt in any folder and run this cmd
