@@ -1,6 +1,4 @@
 var redirect_uri = "http://localhost:3000/"; //use this redirect uri in spotify web app
-//var redirect_uri = "http://127.0.0.1:5500/index.html";
- 
 
 var client_id = "client id"; 
 var client_secret = "client secret"; // In a real app you should not expose your client_secret to the user
