@@ -19,7 +19,7 @@
 ---
 
 
-#Setting up Environment
+#  Setting up Environment
 
 1.just open cmd prompt in any folder and run this cmd
 
@@ -40,7 +40,7 @@ npm install
 
 -----
 
-#Getting refresh token
+# Getting refresh token
 
 now just only few things are left.....
 
